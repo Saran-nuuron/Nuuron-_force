@@ -1,2 +1,2 @@
 # Nuuron-_force
-This is dedicated for our company that is based on Software , App development includes Artificial Generative Intelligence 
+Nova Nuuron official website for AI, web, and app development .Futuristic digital studio for websites, apps, and AI solutions
